@@ -16,5 +16,8 @@ class ViewController: UIViewController {
     }
 
 
+    override func viewLayoutMarginsDidChange() {
+        <#code#>
+    }
 }
 
